@@ -4,7 +4,7 @@ Questa repository contiene il codice, i dati e i risultati della tesi di laurea
 "Letteratura e Digital Humanities: analisi del lessico psico-patologico in *Profumo* e *Le appassionate* di Luigi Capuana"
 (Università di Pisa, a.a. 2024–2025).
 
-## 📘 Descrizione
+## Descrizione
 L’obiettivo del progetto è analizzare il lessico legato alla follia, alla nevrosi e alla devianza nella narrativa di Capuana,
 integrando la critica letteraria tradizionale con strumenti di linguistica computazionale e tecniche di NLP.
 
